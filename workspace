@@ -1,7 +1,7 @@
 import requests, uuid, json
 
 # Add your key and endpoint
-key = "6D9HqkpTnxtBr30hs7I5lCZsnM6act9SMUnKjpRoZmRkSbvNgBqeJQQJ99BDACYeBjFXJ3w3AAAbACOGfOdg"
+key = "6D9HqkpTnxtBfffr30hs7I5lCZsnM6act9SMUnKjpRoZmRkSbvNgBqeJQQJ99BDACYeBjFXJ3w3AAAbACOGfOdg"
 endpoint = "https://api.cognitive.microsofttranslator.com"
 
 # location, also known as region.
